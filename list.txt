@@ -1,0 +1,9 @@
+#pihole list from https://github.com/mypiholelist/
+#this list is free
+#blocks ads, tracking, mining, malware
+shimly-klick.de
+klickfliessband.de
+lotto.gmx.de
+vorteile.gmx.net
+
+
